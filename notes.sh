@@ -28,3 +28,7 @@ notes() {
       ;;
   esac
 }
+
+alias n='notes'
+alias nv='notes vim'
+alias cn='notes cat'
